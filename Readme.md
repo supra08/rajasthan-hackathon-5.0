@@ -1,6 +1,6 @@
-# Team: THE SPRT
+# Team name: THE SPRT
 
-This project is our submission for the Rajasthan Hackathon 5.0. This is site which promotes E-Governance and facilitates communication between the government and the citizens to great extent.
+This project is our submission for the Rajasthan Hackathon 5.0. This is site which promotes E-Governance and facilitates communication between the government and the citizens to great extent. 
 
 ## Official Readme of the Web App
 [Link to Readme](https://docs.google.com/document/d/1EJjxj6GXzFK6c9kYIbQ_PEDlo9zAbVTU8ka9mP9hMxY/edit?usp=sharing)
