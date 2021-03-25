@@ -64,7 +64,7 @@ python3-xlib==0.15
 PyTweening==1.0.3
 pytz==2018.5
 PyVirtualDisplay==0.2.1
-PyYAML==3.12
+PyYAML==5.4
 redis==2.10.6
 requests==2.19.1
 rq==0.6.0
