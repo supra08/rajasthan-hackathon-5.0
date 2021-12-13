@@ -36,7 +36,7 @@ incremental==17.5.0
 itsdangerous==0.24
 Jinja2==2.10
 Keras==2.1.6
-lxml==3.7.3
+lxml==4.6.5
 Markdown==2.6.11
 MarkupSafe==1.0
 mutagen==1.40.0
