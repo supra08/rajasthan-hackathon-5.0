@@ -41,7 +41,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 mutagen==1.40.0
 mysqlclient==1.3.10
-numpy==1.14.2
+numpy==1.22.0
 opencv-python==3.4.0.12
 Pillow==5.1.0
 pipreqs==0.4.9
